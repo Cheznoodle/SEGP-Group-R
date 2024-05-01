@@ -1,4 +1,4 @@
-# Setup Guide for Unity Biology & Chemistry Mobile App
+# Setup Guide for Unity Mobile App Development
 
 This README provides detailed instructions on how to install Unity Hub, download the Unity Editor (version 2022.3.2f1), install necessary modules for iOS and Android development, and set up app project files. Follow these steps to set up your development environment.
 
@@ -30,23 +30,27 @@ This README provides detailed instructions on how to install Unity Hub, download
    - While installing Unity 2022.3.2f1, ensure you check the boxes for iOS Build Support and Android Build Support in the 'Modules' section.
    - If you have already installed Unity 2022.3.2f1, you can add modules by clicking on the three dots next to the version in the 'Installs' tab and selecting 'Add Modules'. Select iOS Build Support and Android Build Support, then follow the prompts.
 
-## Setting Up App Files
+## Downloading and Setting Up App Files
 
-1. **Download and Unzip Project Files:**
-   - Download the zip files 'Bio New.zip' and 'Nott Chem.zip' to your local machine.
-   - Extract the contents of these zip files. On Windows, right-click the file and choose 'Extract All...'. On macOS, double-click the zip file.
+1. **Download Zip File for Biology App:**
+   - Download the 'Bio New.zip' file from the following link:
+   - [Download Bio New.zip](YOUR_BIOLOGY_ZIP_LINK_HERE)
+   - Replace `YOUR_BIOLOGY_ZIP_LINK_HERE` with the actual URL where the zip file is hosted.
 
-2. **Open Project in Unity:**
+2. **Unzip and Open Project in Unity:**
+   - Extract the contents of 'Bio New.zip'. On Windows, right-click the file and choose 'Extract All...'. On macOS, double-click the zip file.
    - Open Unity Hub.
    - Go to the 'Projects' tab and click on the 'Add' button.
-   - Navigate to the extracted folder of 'Bio New' or 'Nott Chem' and select the folder to add it to your projects list.
+   - Navigate to the extracted folder of 'Bio New' and select the folder to add it to your projects list.
    - Click on the project in the Projects tab to open it in Unity.
 
-## Download APK (Alternative)
+## Download APK
 
 If you prefer to directly install the pre-built APK of the app, you can download it from Google Drive:
 
 - [Download APK from Google Drive](YOUR_LINK_HERE)
+
+Replace `YOUR_LINK_HERE` with the actual URL to your Google Drive where the APK is hosted.
 
 ## Conclusion
 

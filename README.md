@@ -42,7 +42,7 @@ This README provides detailed instructions on how to install Unity Hub, download
    - Navigate to the extracted folder of 'Bio New' or 'Nott Chem' and select the folder to add it to your projects list.
    - Click on the project in the Projects tab to open it in Unity.
 
-## Download APK
+## Download APK (Alternative)
 
 If you prefer to directly install the pre-built APK of the app, you can download it from Google Drive:
 

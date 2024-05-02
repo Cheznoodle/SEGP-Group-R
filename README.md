@@ -38,7 +38,7 @@ This README provides detailed instructions on how to install Unity Hub, download
 
    1a. **Download Zip File for Chemistry App:**
       - Download the 'Nott Chem Final.zip' file from the following link:
-      - [Download Nott Chem.zip](https://drive.google.com/file/d/1w5T35ALml7JBcNedBwV1lV0UY2UJAHST/view?usp=sharing)
+      - [Download Nott Chem.zip](https://drive.google.com/file/d/1LCvv6LCto68PcDcqW2TKjz0pUgZMNoFZ/view?usp=sharing)
    
 2. **Unzip and Open Project in Unity:**
    - Extract the contents of 'Bio New.zip'. On Windows, right-click the file and choose 'Extract All...'. On macOS, double-click the zip file.

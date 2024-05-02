@@ -61,5 +61,5 @@ If you prefer to directly install the pre-built APK of the app, you can download
    **Biology App**
 - [Download APK from Google Drive](https://drive.google.com/file/d/11yUpJvHB5rwPKczSKq_HlkSYrzhIVvmO/view?usp=sharing)
   
-   **Chemistry App**
+  **Chemistry App**
 - [Download APK from Google Drive](https://drive.google.com/file/d/1NyGmfJ9Z4zGc-fEWjBTDx98wJpI3f_5j/view?usp=sharing)

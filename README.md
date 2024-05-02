@@ -35,6 +35,10 @@ This README provides detailed instructions on how to install Unity Hub, download
 1. **Download Zip File for Biology App:**
    - Download the 'Bio New.zip' file from the following link:
    - [Download Bio New.zip](https://drive.google.com/file/d/1rTlTjFDTMBL6b2yKgbaKdHCJ21l_HsdQ/view?usp=sharing)
+
+1a. **Download Zip File for Chemistry App:**
+   - Download the 'Nott Chem.zip' file from the following link:
+   - [Download Nott Chem.zip](https://drive.google.com/file/d/1w5T35ALml7JBcNedBwV1lV0UY2UJAHST/view?usp=sharing)
    
 2. **Unzip and Open Project in Unity:**
    - Extract the contents of 'Bio New.zip'. On Windows, right-click the file and choose 'Extract All...'. On macOS, double-click the zip file.
@@ -43,8 +47,17 @@ This README provides detailed instructions on how to install Unity Hub, download
    - Navigate to the extracted folder of 'Bio New' and select the folder to add it to your projects list.
    - Click on the project in the Projects tab to open it in Unity.
 
+2a. **Unzip and Open Project in Unity:**
+   - Extract the contents of 'Nott Chem.zip'. On Windows, right-click the file and choose 'Extract All...'. On macOS, double-click the zip file.
+   - Open Unity Hub.
+   - Go to the 'Projects' tab and click on the 'Add' button.
+   - Navigate to the extracted folder of 'Nott Chem' and select the folder to add it to your projects list.
+   - Click on the project in the Projects tab to open it in Unity.
+
 ## Download APK (Alternative)
 
 If you prefer to directly install the pre-built APK of the app, you can download it from Google Drive:
-
+   **Biology App**
+- [Download APK from Google Drive](https://drive.google.com/file/d/11yUpJvHB5rwPKczSKq_HlkSYrzhIVvmO/view?usp=sharing)
+   **Chemistry App**
 - [Download APK from Google Drive](https://drive.google.com/file/d/11yUpJvHB5rwPKczSKq_HlkSYrzhIVvmO/view?usp=sharing)

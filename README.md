@@ -59,5 +59,6 @@ This README provides detailed instructions on how to install Unity Hub, download
 If you prefer to directly install the pre-built APK of the app, you can download it from Google Drive:
    **Biology App**
 - [Download APK from Google Drive](https://drive.google.com/file/d/11yUpJvHB5rwPKczSKq_HlkSYrzhIVvmO/view?usp=sharing)
+  
    **Chemistry App**
-- [Download APK from Google Drive](https://drive.google.com/file/d/11yUpJvHB5rwPKczSKq_HlkSYrzhIVvmO/view?usp=sharing)
+- [Download APK from Google Drive](https://drive.google.com/file/d/1NyGmfJ9Z4zGc-fEWjBTDx98wJpI3f_5j/view?usp=sharing)
